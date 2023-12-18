@@ -1,0 +1,6 @@
+[run]
+source = cookiecutterflask
+omit = 
+    tests/*
+    autoapp.py
+
